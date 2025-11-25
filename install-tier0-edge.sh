@@ -66,7 +66,7 @@ fi
 
 # Step 4: Clone the repository
 echo "📦 Cloning repository supOS-CE..."
-git clone https://github.com/FREEZONEX/Tier0.git
+git clone https://github.com/FREEZONEX/Tier0-Edge.git
 
 # Step 5: Run the installation script
 echo "🚀 Running installation script..."
