@@ -66,9 +66,9 @@ fi
 
 # Step 4: Clone the repository
 echo "📦 Cloning repository supOS-CE..."
-git clone https://github.com/FREEZONEX/supOS-CE.git
+git clone https://github.com/FREEZONEX/Tier0.git
 
 # Step 5: Run the installation script
 echo "🚀 Running installation script..."
-bash supOS-CE/bin/install.sh
+bash Tier0/bin/install.sh
 
